@@ -1,0 +1,14 @@
+{
+  "name": "@codegen/core",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "scripts": {
+    "build": "tsc",
+    "test": "cross-env NODE_ENV=jest jest --coverage"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}

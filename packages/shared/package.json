@@ -1,0 +1,10 @@
+{
+  "name": "@codegen/shared",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc",
+    "test": "cross-env NODE_ENV=jest jest --coverage"
+  }
+}

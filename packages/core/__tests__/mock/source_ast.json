@@ -1,0 +1,103 @@
+[
+  {
+    "id": "531a5b7a-f3d1-4e5c-a7f0-40f70eb495c5",
+    "label": "表单",
+    "componentName": "LcForm",
+    "_isWhole": true,
+    "props": {
+      "instanceId": "531a5b7a-f3d1-4e5c-a7f0-40f70eb495c5",
+      "children": [
+        {
+          "id": "6d188e5a-b911-4752-b4da-108492fb0f15",
+          "label": "行",
+          "componentName": "LcRower",
+          "_isWhole": true,
+          "props": {
+            "instanceId": "6d188e5a-b911-4752-b4da-108492fb0f15",
+            "children": [
+              {
+                "id": "415667da-4fac-4694-825c-18c66ebacc9f",
+                "label": "输入框",
+                "componentName": "LcInput",
+                "_isWhole": true,
+                "props": {
+                  "instanceId": "415667da-4fac-4694-825c-18c66ebacc9f",
+                  "children": [],
+                  "boundModel": {},
+                  "modelLabel": "",
+                  "modelName": "",
+                  "form": { "name": "", "label": "" },
+                  "maxlength": "",
+                  "minlength": "",
+                  "clearable": false,
+                  "defaultValue": "",
+                  "placeholder": "请输入",
+                  "widget": "",
+                  "hide": false,
+                  "readonly": false,
+                  "disabled": false,
+                  "require": false,
+                  "regex": "",
+                  "validateInfo": "",
+                  "errorInfo": "",
+                  "customValidateFunction": "",
+                  "events": [],
+                  "styles": {},
+                  "themeStyles": {}
+                },
+                "icon": "materials_input",
+                "value": ""
+              }
+            ],
+            "form": { "name": "", "label": "" },
+            "styles": {},
+            "themeStyles": {}
+          },
+          "value": ""
+        },
+        {
+          "id": "2e7b2020-3874-4779-b2bb-c999693ca7af",
+          "label": "行",
+          "componentName": "LcRower",
+          "_isWhole": true,
+          "props": {
+            "instanceId": "2e7b2020-3874-4779-b2bb-c999693ca7af",
+            "children": [],
+            "form": { "name": "", "label": "" },
+            "styles": {},
+            "themeStyles": {}
+          },
+          "value": ""
+        }
+      ],
+      "boundModel": {},
+      "fields": [],
+      "form": { "name": "", "label": "" },
+      "labelWidth": "100px",
+      "formItemSpace": "150px",
+      "adaptive": "",
+      "formPosition": "",
+      "styles": {},
+      "labelPosition": "",
+      "columns": 1,
+      "connectors": [],
+      "themeStyles": {}
+    },
+    "icon": "materials_input",
+    "value": ""
+  },
+  {
+    "id": "4877b173-6632-40c8-8b68-bcece921c878",
+    "label": "行",
+    "componentName": "LcRower",
+    "_isWhole": true,
+    "props": {
+      "instanceId": "4877b173-6632-40c8-8b68-bcece921c878",
+      "children": [],
+      "form": { "name": "", "label": "" },
+      "styles": {},
+      "themeStyles": {}
+    },
+    "value": ""
+  }
+]

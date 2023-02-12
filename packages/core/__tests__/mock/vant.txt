@@ -1,0 +1,23 @@
+<template>
+  <div class="page-container">
+    <van-form class="el-form"
+      ><div class="lc-rower"><van-input class="el-input" /></div
+    ></van-form>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "",
+  components: {},
+  props: {},
+  data() {
+    return {};
+  },
+  created() {},
+  mounted() {},
+  methods: {},
+};
+</script>
+
+<style lang="scss" scoped></style>

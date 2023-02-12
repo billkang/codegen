@@ -1,0 +1,30 @@
+[
+  {
+    "props": {
+      "children": [
+        {
+          "props": {
+            "children": [
+              {
+                "props": {
+                  "form": { "name": "", "label": "" },
+                  "placeholder": "请输入"
+                },
+                "label": "输入框",
+                "componentName": "Input"
+              }
+            ],
+            "form": { "name": "", "label": "" }
+          },
+          "label": "行",
+          "componentName": "Rower"
+        }
+      ],
+      "form": { "name": "", "label": "" },
+      "labelWidth": "100px",
+      "formItemSpace": "150px"
+    },
+    "label": "表单",
+    "componentName": "Form"
+  }
+]
